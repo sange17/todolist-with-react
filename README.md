@@ -11,5 +11,4 @@
 * react
 * local web storage
 
-참고 사이트: [REACT로 Todo 앱 구축 | 초보자를위한 프로젝트 반응 (전체).
-](https://www.youtube.com/watch?v=pCA4qpQDZD8)
+참고 사이트: [Build A Todo App With REACT | React Project For Beginners (FULL).](https://www.youtube.com/watch?v=pCA4qpQDZD8)
